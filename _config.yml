@@ -69,13 +69,13 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+# ga_track_id: 
+# ga_domain:
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Keep Learning <br> Master @ Southeast University <br> SDE @ NARI Technology Co., Ltd  <br> Master @ UBC <br> Research Assistant @ UBC"
-sidebar-avatar: AvatarGithub.jpeg
+sidebar-avatar: img/AvatarGithub.jpeg
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
