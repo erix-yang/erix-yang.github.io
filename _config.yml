@@ -75,7 +75,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
 sidebar-about-description: "Keep Learning <br> Master @ Southeast University <br> SDE @ NARI Technology Co., Ltd  <br> Master @ UBC <br> Research Assistant @ UBC"
-sidebar-avatar: img/AvatarGithub.jpeg
+sidebar-avatar: https://pbs.twimg.com/media/GTuFTVha8AAJKXO?format=jpg&name=medium
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
