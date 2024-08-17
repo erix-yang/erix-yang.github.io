@@ -32,7 +32,9 @@ BigQuery is a fully managed data warehouse that allows you to run fast SQL queri
 ### Step 3: Access BigQuery1. In the Google Cloud Console, go to the **BigQuery** page under **Big Data**.
 2. This will open the BigQuery console, where you can start querying data.
 
-## 3. Loading Data into BigQuery### Option 1: Uploading CSV Files1. In the BigQuery console, click on your project.
+## 3. Loading Data into BigQuery
+
+### Option 1: Uploading CSV Files1. In the BigQuery console, click on your project.
 2. Click **Create Dataset** and name your dataset.
 3. Within the dataset, click **Create Table**.
 4. Select **Upload** and choose your CSV file.
