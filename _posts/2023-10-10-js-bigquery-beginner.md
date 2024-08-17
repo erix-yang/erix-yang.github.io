@@ -19,7 +19,9 @@ BigQuery is a powerful tool for analyzing large datasets using SQL. This guide w
 
 BigQuery is a fully managed data warehouse that allows you to run fast SQL queries over large datasets. It’s serverless, meaning you don’t need to manage infrastructure, and it scales automatically based on your workload.
 
-## 2. Setting Up BigQuery### Step 1: Create a Google Cloud Project1. Go to [Google Cloud Console](https://console.cloud.google.com/).
+## 2. Setting Up BigQuery
+
+### Step 1: Create a Google Cloud Project1. Go to [Google Cloud Console](https://console.cloud.google.com/).
 2. Sign in with your Google account.
 3. Click on the project dropdown and select **New Project**.
 4. Name your project and click **Create**.
