@@ -8,6 +8,6 @@ tags:
     - Electrical Engineering
 ---
 
-> After 1 year condensed course study, I got straight A and graduated from UBC with a Master's degree
+> After 1 year intense course study, I got straight A and graduated from UBC with a Master's degree
 
 ![UBC Grades](/img/grades_ubc.png)
