@@ -11,6 +11,7 @@ Hey, I am Eric Yang. I worked at NARI Technology Co., Ltd (SH 600406).
 
 
 > Papers
+
 "Induction motor fault diagnosis based on ensemble classifiers." (with R. Yan, and R. X. Gao) 2016 IEEE Instrumentation & Measurement Technology Conference (I2MTC), 2016.
 
 "Induction motor fault diagnosis using multiple class feature selection."(with R. Yan, and R. X. Gao) 2015 IEEE Instrumentation & Measurement Technology Conference (I2MTC), 2015. 
@@ -27,6 +28,7 @@ YANG Xueliang, QI Mengyi, DING Hong, TAO Xiaofeng, LIU Niexuan. Fault Diagnosis 
 LIU Niexuan, YANG Xueliang, DING Hong, et al. Short-term power load forecasting based on improved Prophet algorithm. Power Demand Side Management,2022, 24(05): 58-63.
 
 > Patents (Granted by China National Intellectual Administration)
+
 A Power Data Collection System Based on Distributed Message Queues
 
 A Remote Terminal Operation and Maintenance Management System for Electrical Energy Based on IoT Communication Protocols
