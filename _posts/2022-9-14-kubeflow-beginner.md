@@ -1,12 +1,13 @@
 ---
 layout:       post
-title:        "Getting Started with BigQuery"
+title:        "Getting Started with Kubeflow"
 author:       "Eric"
 header-style: text
 catalog:      true
 tags:
-    - BigQuery
-    - Google
+    - Kubeflow
+    - Python
+    - Machine Learning
 ---
 
 > This is about how to learn Kubeflow in ML Task 
