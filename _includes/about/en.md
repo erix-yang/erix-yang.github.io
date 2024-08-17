@@ -1,13 +1,14 @@
-Hey, I am Eric Yang. I worked on the [React Team](https://beta.reactjs.org/community/meet-the-team#react-core) at <del>Facebook</del>Meta.
+Hey, I am Eric Yang. I worked at NARI Technology Co., Ltd (SH 600406).
 
 > Work & Study
-September 2008 - June 2012 | Soochow University (China) | Bachelor Degree in Electrical Engineering
 
-September 2012 - June 2015 | Southeast University (China) | Master Degree in Instrument Science and Technology
+| Time Period               | Institution/Company                | Degree/Position                            |
+|---------------------------|------------------------------------|--------------------------------------------|
+| September 2008 - June 2012 | Soochow University (China)         | Bachelor Degree in Electrical Engineering  |
+| September 2012 - June 2015 | Southeast University (China)       | Master Degree in Instrument Science and Technology |
+| July 2015 - June 2023      | NARI Technology Co., Ltd           | Software Development Engineer (Backend)    |
+| September 2023 - July 2024 | University of British Columbia     | Master Degree in Electrical Engineering    |
 
-July 2015 - June 2023 | NARI Technology Co., Ltd | Software Development Engineer (Backend)
-
-September 2023 - July 2024 | University of British Columbia | Master Degree in Electrical Engineering
 
 > Papers
 "Induction motor fault diagnosis based on ensemble classifiers." (with R. Yan, and R. X. Gao) 2016 IEEE Instrumentation & Measurement Technology Conference (I2MTC), 2016.
