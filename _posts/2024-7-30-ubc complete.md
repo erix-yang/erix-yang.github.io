@@ -10,4 +10,4 @@ tags:
 
 > After 1 year condensed course study, I got straight A and graduated from UBC with a Master's degree
 
-/img/grades ubc.png
+![UBC Grades](/img/grades_ubc.png)
