@@ -10,4 +10,4 @@ tags:
 
 > After 1 year intense course study, I got straight A and graduated from UBC with a Master's degree
 
-![UBC Grades](/img/grades_ubc.png)
+![UBC Grades](/img/grades ubc.png)
