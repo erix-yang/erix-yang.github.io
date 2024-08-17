@@ -26,6 +26,6 @@ tags:
 
 ![Demo](/img/ubc-zk.png)
 
-> FDS SYstem Design.
+> FDS System Design.
 
 ![Demo](/img/ubc-fds.png)
