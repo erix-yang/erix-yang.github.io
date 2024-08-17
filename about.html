@@ -8,6 +8,11 @@ multilingual: true
 ---
 
 {% include multilingual-sel.html %}
+<!-- English Version -->
+<div class="en post-container">
+    {% capture about_en %}{% include about/en.md %}{% endcapture %}
+    {{ about_en | markdownify }}
+</div>
 
 <!-- Chinese Version -->
 <div class="zh post-container">
@@ -15,11 +20,6 @@ multilingual: true
     {{ about_zh | markdownify }}
 </div>
 
-<!-- English Version -->
-<div class="en post-container">
-    {% capture about_en %}{% include about/en.md %}{% endcapture %}
-    {{ about_en | markdownify }}
-</div>
 
 
 {% if site.disqus_username %}
