@@ -115,6 +115,11 @@ Window 3 Polygon Coordinates:
  
  ……
 
+ ### Label ###
+ I can label the coordination information on an image!
+ ![Demo](/img/polygon_label.png)
+
+
  ## Revit API ##
 It's time to do some calculation and use Revit API to generate a revit model ;)
 To be continued…
