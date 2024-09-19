@@ -139,6 +139,9 @@ And then, with only ONE click, BOOM! Here come the Revit floor plan generated (o
 Also we can check this model in 3D.
 ![Demo](/img/revit-3d-rough.png)
 
+2024/09/19 Doors and windows are added to the model!
+![Demo](/img/revit-3d-with-doors-wins.png)
+
 I will work a little bit more to make it better...
 
 To be continued…
