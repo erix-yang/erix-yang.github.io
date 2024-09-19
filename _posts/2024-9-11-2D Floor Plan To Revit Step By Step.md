@@ -135,7 +135,8 @@ And then, with only ONE click, BOOM! Here come the Revit floor plan generated (o
 ![Demo](/img/revit-floorplan.png)
 
 Also we can check this model in 3D.
-![Demo](/img/revit-3D.png)
+![Demo](/img/revit-3d-rough.png)
 
+I will work a little bit more to make it better...
 
 To be continued…
