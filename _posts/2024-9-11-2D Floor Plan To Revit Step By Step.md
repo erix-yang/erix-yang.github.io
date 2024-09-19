@@ -119,7 +119,23 @@ Window 3 Polygon Coordinates:
 I can label the coordination information on an image!
 ![Demo](/img/polygon_label.png)
 
+There we go! Coordinates of the walls, windows, doors are extracted and saved in JSON files. 
+![Demo](/img/coordinates.png)
+
 
 ## Revit API ##
 It's time to do some calculation and use Revit API to generate a revit model ;)
+
+Lots of time were spent on configuring the .NET development environments and also the startup REVIT API lessons.
+
+Here, I can click button on the External Tools button in Revit, and my developed addin program will run (coded with C# in Visual Studio).  
+![Demo](/img/addin.png)
+
+And then, with only ONE click, BOOM! Here come the Revit floor plan generated (only walls for now)!
+![Demo](/img/revit-floorplan.png)
+
+Also we can check this model in 3D.
+![Demo](/img/revit-3D.png)
+
+
 To be continued…
