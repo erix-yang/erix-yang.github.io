@@ -15,6 +15,7 @@ tags:
 
 ## Home Sweet Home ##
 ![Demo](/img/myhome.png)
+
 This is my little cozy home in Nanjing, China.
 
 ## OpenCV Processing ##
