@@ -34,7 +34,7 @@ With 200 epoches, it cost 250 minutes. With 500 epoches, it cost 700 minutes. (M
 ### Generated Floor Plan ###
 ![Demo](/img/t2d-test1.png)
 ![Demo](/img/t2d-test2.png)
-![Demo](/img/t2d-test2.png)
+![Demo](/img/t2d-test3.png)
 
 As shown in the outputs, the results are really poor :(
 I'll try some other methods later.
